@@ -17,12 +17,12 @@ The research paper I wrote for this project can be found [here.](https://github.
 
 ## [Project 2: Pneumococcal Vaccination Campaign Analysis with Bayesian Hierarchical Modeling](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness)
 
-This is a project from my master’s program that evaluates pneumococcal vaccination campaign effectiveness using Bayesian hierarchical statistical modeling on CDC BRFSS data (2018–2021).
+This is a project from my master’s program using R that evaluates pneumococcal vaccination campaign effectiveness using Bayesian hierarchical statistical modeling on CDC BRFSS data (2018–2021).
 
 - **Data:** CDC BRFSS survey (2018–2021), adult vaccination coverage stratified by geography, demographics, and time period  
 - **Techniques:**  Bayesian hierarchical modeling, STAN for Bayesian inference with prior/posterior predictive checks  
-- **Statistical & Data Science Methods:** Binomial likelihood with logit link, Region-specific intercepts with global hyperpriors, Parameter estimation via MCMC (4 chains, convergence diagnostics)  
-- **Evaluation Metrics:** Posterior means & 95% credible intervals, Model fit assessed with posterior predictive checks, Convergence diagnostics (Rhat, ESS, trace plots, autocorrelation)  
+- **Statistical & Data Science Methods:** Binomial likelihood with logit link, Region-specific intercepts with global hyperpriors, MCMC parametric estimation
+- **Evaluation Metrics:** Convergence diagnostics (Rhat, ESS, trace plots, autocorrelation)  
 
 The full report is available in [here.](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness/blob/main/Bayesian_Statistics_Report.pdf)
 
