@@ -1,7 +1,7 @@
 # Snigdha Pakala's Portfolio
 A portfolio of projects in Python, R, and SQL demonstrating applied statistics, data science, and visualization skills.
 
-# [Project 1: Smoking Behavior Prediction Using Machine Learning]
+# [Project 1: Smoking Behavior Prediction Using Machine Learning](https://snigdhapakala.github.io/Smoking-Behavior-ML/)
 
 This is a project I did during my master's program that analyzes smoking behavior through interpretable machine learning techniques, using the 2020 Behavioral Risk Factor Surveillance System (BRFSS) dataset.
 
