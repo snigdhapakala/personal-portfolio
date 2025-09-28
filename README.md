@@ -13,6 +13,20 @@ This is a project I did during my master's program that analyzes smoking behavio
 
 The comprehensive approach balances predictive power with interpretability, offering insights into smoking risk factors valuable for public health interventions.
 
-The research paper I wrote for this project can be found [here](https://github.com/snigdhapakala/Smoking-Behavior-ML/blob/main/Research_Paper_Smoking_Behavior_ML.pdf)
+The research paper I wrote for this project can be found [here.](https://github.com/snigdhapakala/Smoking-Behavior-ML/blob/main/Research_Paper_Smoking_Behavior_ML.pdf)
 
+## [Project 3: Statistical Analysis of Emergency Service Claims by Income Category](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income)
 
+This project analyzes the relationship between socioeconomic status and frequency of emergency service claims using Medicare and IRS income data.
+
+- **Data**: Combines 2022 Medicare Physician Other Practitioners claims data with ZIP code-level Adjusted Gross Income (AGI) from IRS
+
+- **Scope**: Examines disparities in emergency service use across high-poverty and affluent ZIP codes defined by income brackets
+
+- **Methods**: Data cleaning, merging datasets, EDA, log transformation for skewness reduction, normalization of claim frequencies per beneficiary group
+
+- **Statistical Analysis**: Linear regression with heteroskedasticity-consistent standard errors, Welch two-sample t-test comparing claim rates, Residual diagnostics including Q-Q plots and tests for normality and homoscedasticity
+
+The project provides a statistical framework combining regression modeling with robust inference and comprehensive visualization to examine income-based disparities in emergency healthcare usage.
+
+My project report can be found [here](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income/blob/main/Paper_Statistical_Analysis_Emergency_Claims.pdf)
