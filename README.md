@@ -15,18 +15,26 @@ The comprehensive approach balances predictive power with interpretability, offe
 
 The research paper I wrote for this project can be found [here.](https://github.com/snigdhapakala/Smoking-Behavior-ML/blob/main/Research_Paper_Smoking_Behavior_ML.pdf)
 
+## [Project 2: Pneumococcal Vaccination Campaign Analysis with Bayesian Hierarchical Modeling](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness)
+
+This is a project from my master’s program that evaluates pneumococcal vaccination campaign effectiveness using Bayesian hierarchical statistical modeling on CDC BRFSS data (2018–2021).
+
+- **Data:** CDC BRFSS survey (2018–2021), adult vaccination coverage stratified by geography, demographics, and time period  
+- **Techniques:**  Bayesian hierarchical modeling, STAN for Bayesian inference with prior/posterior predictive checks  
+- **Statistical & Data Science Methods:** Binomial likelihood with logit link, Region-specific intercepts with global hyperpriors, Parameter estimation via MCMC (4 chains, convergence diagnostics)  
+- **Evaluation Metrics:** Posterior means & 95% credible intervals, Model fit assessed with posterior predictive checks, Convergence diagnostics (Rhat, ESS, trace plots, autocorrelation)  
+
+The full report is available in [here.](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness/blob/main/Bayesian_Statistics_Report.pdf)
+
 ## [Project 3: Statistical Analysis of Emergency Service Claims by Income Category](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income)
 
 This project analyzes the relationship between socioeconomic status and frequency of emergency service claims using Medicare and IRS income data.
 
 - **Data**: Combines 2022 Medicare Physician Other Practitioners claims data with ZIP code-level Adjusted Gross Income (AGI) from IRS
-
 - **Scope**: Examines disparities in emergency service use across high-poverty and affluent ZIP codes defined by income brackets
-
 - **Methods**: Data cleaning, merging datasets, EDA, log transformation for skewness reduction, normalization of claim frequencies per beneficiary group
-
 - **Statistical Analysis**: Linear regression with heteroskedasticity-consistent standard errors, Welch two-sample t-test comparing claim rates, Residual diagnostics including Q-Q plots and tests for normality and homoscedasticity
 
 The project provides a statistical framework combining regression modeling with robust inference and comprehensive visualization to examine income-based disparities in emergency healthcare usage.
 
-My project report can be found [here](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income/blob/main/Paper_Statistical_Analysis_Emergency_Claims.pdf)
+My project report can be found [here.](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income/blob/main/Paper_Statistical_Analysis_Emergency_Claims.pdf)
