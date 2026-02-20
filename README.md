@@ -29,7 +29,7 @@ The comprehensive approach balances predictive power with interpretability, offe
 
 The research paper I wrote for this project can be found [here.](https://github.com/snigdhapakala/Smoking-Behavior-ML/blob/main/Research_Paper_Smoking_Behavior_ML.pdf)
 
-## [Project 2: Pneumococcal Vaccination Campaign Analysis with Bayesian Hierarchical Modeling](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness)
+## [Project 3: Pneumococcal Vaccination Campaign Analysis with Bayesian Hierarchical Modeling](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness)
 
 This is a project from my master’s program using R that evaluates pneumococcal vaccination campaign effectiveness using Bayesian hierarchical statistical modeling on CDC BRFSS data (2018–2021).
 
@@ -40,7 +40,7 @@ This is a project from my master’s program using R that evaluates pneumococcal
 
 The full report is available in [here.](https://github.com/snigdhapakala/Bayesian_Statistics_Vaccination_Campaign_Effectiveness/blob/main/Bayesian_Statistics_Report.pdf)
 
-## [Project 3: Statistical Analysis of Emergency Service Claims by Income Category](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income)
+## [Project 4: Statistical Analysis of Emergency Service Claims by Income Category](https://github.com/snigdhapakala/Statistical-Analysis-Emergency-Claims-Income)
 
 This project analyzes the relationship between socioeconomic status and frequency of emergency service claims using Medicare and IRS income data.
 
