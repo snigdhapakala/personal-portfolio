@@ -1,7 +1,21 @@
 # Snigdha Pakala's Portfolio
 A portfolio of projects in Python, R, and SQL demonstrating applied statistics, data science, and visualization skills.
 
-## [Project 1: Smoking Behavior Prediction Using Machine Learning](https://github.com/snigdhapakala/Smoking-Behavior-ML)
+## [Project 1: Causal Mediation Analysis of Triglyceride-Glucose Index & Cardiovascular Mortality)
+
+This is a graduate-level research project analyzing the relationship between metabolic risk factors and cardiovascular mortality using nationally representative health survey data. The study applies causal mediation techniques to decompose total effects into direct and pathway-mediated components.
+
+- **Data:**  Integrated multiple NHANES survey cycles with linked National Death Index mortality records for longitudinal analysis.
+- **Study Design:** Observational cohort framework with time-to-event outcomes.
+- **Techniques:** Data harmonization across survey cycles, covariate adjustment, interaction modeling.
+- **Statistical Methods:** Regression-based causal mediation analysis to decompose total effects into direct and indirect (mediated) effects.
+- **Inference:** Bootstrap confidence intervals, sensitivity analysis for mediation assumptions, robustness checks.
+
+The analysis provides a structured causal framework for understanding interacting metabolic mechanisms contributing to cardiovascular mortality risk.
+
+The full research paper can be found [here.](https://github.com/snigdhapakala/Smoking-Behavior-ML/blob/main/Research_Paper_Smoking_Behavior_ML.pdf)
+
+## [Project 2: Smoking Behavior Prediction Using Machine Learning](https://github.com/snigdhapakala/Smoking-Behavior-ML)
 
 This is a project I did during my master's program that analyzes smoking behavior through interpretable machine learning techniques, using the 2020 Behavioral Risk Factor Surveillance System (BRFSS) dataset. 
 
