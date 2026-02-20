@@ -13,7 +13,7 @@ This is a graduate-level research project analyzing the relationship between met
 
 The analysis provides a structured causal framework for understanding interacting metabolic mechanisms contributing to cardiovascular mortality risk.
 
-The full research paper can be found [here.](https://github.com/snigdhapakala/Smoking-Behavior-ML/blob/main/Research_Paper_Smoking_Behavior_ML.pdf)
+The full research paper can be found [here.](https://github.com/snigdhapakala/Causal-Mediation-Analysis/blob/main/Causal%20Mediation%20Analysis.pdf)
 
 ## [Project 2: Smoking Behavior Prediction Using Machine Learning](https://github.com/snigdhapakala/Smoking-Behavior-ML)
 
