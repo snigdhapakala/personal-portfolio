@@ -1,7 +1,7 @@
 # Snigdha Pakala's Portfolio
 A portfolio of projects in Python, R, and SQL demonstrating applied statistics, data science, and visualization skills.
 
-## [Project 1: Causal Mediation Analysis of Triglyceride-Glucose Index & Cardiovascular Mortality(https://github.com/snigdhapakala/Causal-Mediation-Analysis)]
+## [Project 1: Causal Mediation Analysis of Triglyceride-Glucose Index & Cardiovascular Mortality](https://github.com/snigdhapakala/Causal-Mediation-Analysis)
 
 This is a graduate-level research project analyzing the relationship between metabolic risk factors and cardiovascular mortality using nationally representative health survey data. The study applies causal mediation techniques to decompose total effects into direct and pathway-mediated components.
 
